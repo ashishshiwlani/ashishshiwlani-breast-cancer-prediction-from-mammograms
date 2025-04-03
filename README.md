@@ -48,7 +48,7 @@ breast-cancer-prediction-from-mammograms/
 │   └── tkinter_app.py               # Main Tkinter GUI
 │
 ├── models/
-│   └── model.h5                     # Trained multimodal model
+│   └── model.h5                     # Trained multimodal model (stored on Google Drive)
 │
 ├── dicom/
 │   └── (sample DICOM files)         # Use your own .dcm files here
@@ -72,7 +72,7 @@ breast-cancer-prediction-from-mammograms/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/breast-cancer-prediction-from-mammograms.git
+git clone https://github.com/ashishshiwlani/ashishshiwlani-breast-cancer-prediction-from-mammograms.git
 cd breast-cancer-prediction-from-mammograms
 ```
 
@@ -93,6 +93,13 @@ This will open the desktop GUI where you can:
 - Upload mammogram DICOM files
 - Fill out risk factors
 - Generate a prediction and download a report
+
+---
+
+## Model File
+
+📦 Download the trained model (.h5):  
+[Click here to download model.h5 from Google Drive](https://drive.google.com/drive/folders/1Jpt6KhoNVA5NJDleAJp-sgg4nh-hZt74?usp=drive_link)
 
 ---
 
