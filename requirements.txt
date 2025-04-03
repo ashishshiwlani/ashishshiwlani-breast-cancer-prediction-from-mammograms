@@ -1,0 +1,12 @@
+tensorflow>=2.8.0
+numpy
+pandas
+pydicom
+Pillow
+opencv-python
+scikit-learn
+matplotlib
+shap
+reportlab
+fuzzywuzzy
+python-Levenshtein  # Needed for fuzzywuzzy to run efficiently
