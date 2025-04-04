@@ -112,3 +112,4 @@ This is an experimental AI tool meant for academic and research purposes. It doe
 ## Questions?
 
 Feel free to open an issue or drop a message if you'd like to collaborate or improve the app further.
+Fixed timestamp by adding small edit
